@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318282746486",
+    "project_id": "campuswheels-srmu25",
+    "storage_bucket": "campuswheels-srmu25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318282746486:android:a805260cac55ae37212d57",
+        "android_client_info": {
+          "package_name": "com.example.campuswheels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTdLCiJoFV8eQRXAPoZ8F1Cq0IcWt0VV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
