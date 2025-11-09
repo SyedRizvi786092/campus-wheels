@@ -42,15 +42,15 @@ The system leverages **Google Maps API** for live tracking, **Firebase Firestore
 
 ## 📱 App Structure
 
-com.example.campuswheels/
-│
-├── core/ # Common utilities & navigation
-├── feature_auth/ # Authentication module
-├── feature_bus/ # Bus tracking module
-├── feature_bus_routes/ # Route details and visualization
-├── feature_profile/ # User profile management
-├── feature_issues/ # Issue reporting system
-└── ui/theme/ # App theme & styles
+com.example.campuswheels/ <br>
+│ <br>
+├── core/ # Common utilities & navigation <br>
+├── feature_auth/ # Authentication module <br>
+├── feature_bus/ # Bus tracking module <br>
+├── feature_bus_routes/ # Route details and visualization <br>
+├── feature_profile/ # User profile management <br>
+├── feature_issues/ # Issue reporting system <br>
+└── ui/theme/ # App theme & styles <br>
 
 ---
 
@@ -74,8 +74,8 @@ com.example.campuswheels/
 
 **Mojiz Hasan**  
 📧 mojiz.hasan.786@gmail.com  
-🔗 [\[LinkedIn Profile Link\]](https://www.linkedin.com/in/mohd-mojiz-hasan-a28b382b9/)  
-💻 [\[GitHub Profile Link\]](https://github.com/SyedRizvi786092/)
+🔗 [LinkedIn Profile Link](https://www.linkedin.com/in/mohd-mojiz-hasan-a28b382b9/)  
+💻 [GitHub Profile Link](https://github.com/SyedRizvi786092/)
 
 ---
 
