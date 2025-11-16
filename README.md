@@ -82,6 +82,6 @@ com.example.campuswheels/ <br>
 ## 🧾 License
 
 This project is developed for **academic and demonstration purposes**.  
-All rights reserved © 2025 Mojiz Hasan.
+All rights reserved © 2025 Mohd Mojiz Hasan.
 
 ---
