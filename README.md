@@ -66,7 +66,13 @@ com.example.campuswheels/ <br>
 
 ## 📸 Screenshots
 
-*(Will add app screenshots here soon!)*
+| Sign Up | Login | Home Screen |
+|------------|------------|----------------|
+| ![Sign Up](screenshots/sign_up_screen.jpg) | ![Login](screenshots/login_screen.jpg) | ![Home](screenshots/home_screen.jpg) |
+
+| Bus Routes | Route Details | Profile Screen |
+|--------------|------------------|----------------|
+| ![Routes](screenshots/bus_routes.jpg) | ![Route Details](screenshots/route_details.jpg) | ![Profile](screenshots/profile_screen.jpg) |
 
 ---
 
